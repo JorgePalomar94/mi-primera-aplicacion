@@ -1,0 +1,113 @@
+body {
+    background-color: azure;
+    font-family: 'Roboto', sans-serif;
+    padding: 12px;
+
+}
+
+.container {
+    height: 507px;
+    background: whitesmoke;
+    border: 3px solid transparent;
+    border-radius: 12px;
+    transition: border 0.15s ease-in;
+    color: #F2EEE5;
+    width: 274px;
+
+}
+
+.img-container {
+    height: 274px;
+    width: 100%;
+}
+
+.casco {
+    height: 100%;
+    width: 100%;
+}
+
+.text-wrapper {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.title {
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    color: #0ba035;
+    margin: 0;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.subtitle {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: 0em;
+    margin-right: 8px;
+    color: #5B6166;
+    margin: 0;
+
+}
+
+.subtitle2 {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-decoration: line-through;
+    color: #5B6166;
+    margin: 0;
+
+
+}
+
+.flag-container {
+    background-color: black;
+    border-radius: 4px;
+    padding: 4px 6px;
+    margin: 0px 5px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    color: white;
+}
+
+.subtitle3 {
+    font-size: 20px;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: black;
+    margin: 0;
+}
+
+.subtitle4 {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #5B6166;
+    margin: 0;
+}
+
+.subtitle5 {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #0fd647;
+    margin: 6px 0px 0px;
+}
